@@ -2406,7 +2406,7 @@
 			 "Limited to [1] per Civilization", 
 			 "can move after attacking", 
 			 "Never appears as a Barbarian unit", 
-			 "Only available <if [Qalb of Dunya] is constructed", 
+			 "Only available <if [Qalb of Dunya] is constructed>", 
 			 "Ranged attacks may be performed over obstacles",
 			 "Eliminates combat penalty for attacking over a river",
 			 "May attack when embarked",
@@ -2424,7 +2424,8 @@
 			 "Can see invisible [All] units",
 			 "Can pass through impassable tiles",
 			 "Ignores terrain cost",
-			 "Ignores Zone of Control"],
+			 "Ignores Zone of Control",
+			 "Only available <for [Human player]> <hidden from users>"],
 		"replacementTextForUniques": "Unbuildable",
 		"attackSound": "bombing"
 	 },
