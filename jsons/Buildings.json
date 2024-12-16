@@ -2014,7 +2014,17 @@
 			{"text":"This building only available in Capital."}
         ]
 	},
-	
+	{
+		"name": "Qalb of Dunya",
+		"isWonder": true,
+		"cost": 5,
+		"uniques": ["May buy [Themistocles] units for [200] [Faith] [in all cities] at an increasing price ([100])", 
+					"Instantly consumes [1] [Portal Limiter]",
+			                "Gain a free [Portal] [in this city]", "Free [Themistocles] appears", 
+					"Only available <in cities with a [Palace]> <in cities without a [Portal]> <starting from the [Heroic age]>", 
+					"Only available <for [Human player]> <hidden from users>"]
+	},
+		
 	// Unique Ability related
 	{
 		"name": "Door of Prosperity",
