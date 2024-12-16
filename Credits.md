@@ -194,6 +194,7 @@ Any icons not listed below are taken from the base game, see [Unciv credits](htt
 * Elements: [taoism](https://thenounproject.com/search/?q=Taoism&i=740812) by parkjisun
 * Educated Beast Tamer: [Star](https://thenounproject.com/icon/star-4403715/) by Desti Silvana Ekasari
 * Elite Beast Tamer: [hexagram](https://thenounproject.com/icon/hexagram-4403716/) by Desti Silvana Ekasari
+* Zeebriel Al'Masih: [Oblation] (https://www.facebook.com/share/15TwnJXzVa/) by UP Diliman
 * Entilon: [Dryad](https://thenounproject.com/icon/dryad-1005203/) by parkjisun
 * Entmates: [Ent](https://github.com/Ravignir/LOTR-Unciv/tree/main/Images/UnitIcons/Ent.png) by Ravignir
 * Fanatic: [cloak](https://thenounproject.com/icon/cloak-4661902/) by Angelica
