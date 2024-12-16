@@ -139,6 +139,11 @@
 					"[+33]% Strength <vs [Anti-Armor] units> <when attacking>"]
     },
 	{
+	"name": "The Savior Hero"
+	"movementType": "Land"
+	"uniques": ["[-100]% maintenance costs"]
+    },
+	{
         "name": "Anti-Cav Hero",
         "movementType": "Land",
         "uniques": ["[-100]% maintenance costs", 
