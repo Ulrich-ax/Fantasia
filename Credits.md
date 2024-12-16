@@ -252,7 +252,7 @@ Any icons not listed below are taken from the base game, see [Unciv credits](htt
 * Wolf Rider: [Wolf](https://thenounproject.com/icon/wolf-151723/) by Jason Dilworth
 * Yeti: [bigfoot](https://thenounproject.com/icon/bigfoot-1385648/) by Icons Producer
 * Zeppelin: [airship](https://thenounproject.com/icon/airship-4503127/) by IconPai
-* Zeebriel Al'Masih: [Oblation] (https://www.facebook.com/share/15TwnJXzVa/) by UP Diliman
+* Zeebriel Al'Masih: [Oblation](https://www.facebook.com/share/15TwnJXzVa/) by UP Diliman
 
 ## Promotion Icons
 * Alchemist Horizon: [classes alchemist](https://thenounproject.com/icon/classes-alchemist-2360002/) by Maxicons
