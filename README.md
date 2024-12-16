@@ -1,5 +1,5 @@
 # Fantasia
-Play a fantasy race in a fantasy world.
+Play a fantasy race in a fantasy world with a cheat Hero only for human.
 Built around Ancient Empires II, and then expanded.
 
 ## Features
@@ -10,3 +10,4 @@ Built around Ancient Empires II, and then expanded.
 - Capital Domination Victory, conquer capital owned by other civs, while Domination Victory works as usual
 - Skills, to strengthen your army
 - Fantasy tech tree, combined with vanilla
+- Add Zeebriel Al'Masih as an Over Power Hero only for Human
